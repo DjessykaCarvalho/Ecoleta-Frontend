@@ -1,6 +1,6 @@
 # Ecoleta
 
-Project created for the Next Level Week from Rocketseat.
+Project created for the Next Level Week 01 from Rocketseat.
 The front end was developed using React JS and TypeScript.
 
 ## Clone repository
